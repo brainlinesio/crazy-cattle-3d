@@ -25,5 +25,5 @@
 
   <h2>Play Now!</h2>
   <p>Let the madness begin — gather your herd and charge through the farm in <strong>Crazy Cattle 3D</strong>.<br>
-  🎮 <strong>Play online now</strong> and show the world who rules the ranch!</p>
+  🎮 <strong>Play online on <a href="https://brain-lines.io">Brain Lines</a> now</strong> and show the world who rules the ranch!</p>
 </div>
